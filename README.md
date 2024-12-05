@@ -6,7 +6,7 @@ Hello! I'm **Xavier O'Donoghue**, a passionate full stack developer.
 ## About Me
 
 - **Education**: Bachelor of Science in Computer Science, Georgia Tech
-- **Programming Languages**: Python, Java, JavaScript (ReactJS, NodeJS)
+- **Programming Languages**: Python, Java, JavaScript (ReactJS, NodeJS), Dart
 - **Database Expertise**: Firebase, MongoDB
 
 ---
