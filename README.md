@@ -13,7 +13,7 @@ Hello! I'm **Xavier O'Donoghue**, a passionate full stack developer.
 
 ## Projects
 
-### [Project 1: Beat Central](https://github.com/Xodonoghue/Beat-Central.git)
+### [Beat Central](https://github.com/Xodonoghue/Beat-Central.git)
 This is a web application designed to help music producers have a storefront where they can sell instrumentals as well as the ability to upload beats and images that are automatically turned into mp4s and uploaded to YouTube. It utilizes the stripe API to accept payments, it stores .mp3, .wav files, and cover images in a firebase database. It utilizes Google's OAUTH API to allow users to connect their accounts and it uses the YouTube API to upload beats on behalf of users. The frontend is ReactJS and the backend is Node.js.
 
 - **Technologies Used**: ReactJS, NodeJS, Firebase.
