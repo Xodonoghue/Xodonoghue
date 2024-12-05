@@ -20,13 +20,10 @@ This is a web application designed to help music producers have a storefront whe
 
 ---
 
-### [Project 2: Task Management App](https://yourproject2link.com)
-A full-stack task management system designed for productivity enthusiasts.
+### [My Music](https://github.com/Xodonoghue/My-Music.git)
+This is mobile application for music fans to upload and listen to songs on their phones. Users sign up and are authenticated using Firebase Authentification they can upload beats that are saved to Firebase storage bucket in the backend where they can be retrieved and played. The entire project was built using the Dart language and Flutter framework. 
 
-- **Technologies Used**: Python, Flask, MongoDB
-- **Highlights**:
-  - User authentication and role-based access.
-  - Seamless integration with calendar APIs.
+- **Technologies Used**: Dart, Flutter, Firebase
 
 ---
 
